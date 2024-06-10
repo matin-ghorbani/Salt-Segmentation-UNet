@@ -41,3 +41,5 @@ python3 predict.py --help
 ![result 3](./output/results/result3.png)
 ---
 ![result 4](./output/results/result4.png)
+---
+*you can download the weight of it from [here](https://drive.google.com/file/d/1-0lm6r81HdIGToCgKsrXttTjn2krL3mX/view?usp=sharing) if you want to.*
